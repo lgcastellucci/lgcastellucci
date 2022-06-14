@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lgcastellucci
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Java, C#, Delphi
+- 🌱 I’m currently learning Java, and senior software developer in C#, Delphi
 - 💞️ I’m looking to collaborate on the community
 - 📫 How to reach me castellucci@gmail.com
 
